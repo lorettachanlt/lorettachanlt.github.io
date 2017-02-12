@@ -7,7 +7,7 @@ body {
 
 @font-face {
   font-family: Nickainley; 
-  src: url('assets/Nickainley-Normal.otf'); 
+  src: url('../Nickainley-Normal.otf'); 
 } 
 
 header {
