@@ -8,7 +8,8 @@ $(document).ready(function() {
       "I was born in Hong Kong and raised in a small town outside London called High Wycombe.",
       "I speak cantonese, mandarin and un pocito de español.",
       "I like to sleep diagonally.",
-      "I can type more than 100 words per minute."
+      "I can type more than 100 words per minute.",
+      "Lying on my stomach, I can touch my forehead with my toes."
       ]
       factDiv.innerHTML = facts[count];
       if (count >= facts.length - 1) {
